@@ -12,7 +12,7 @@ The objective is to build a simple platform to upload and view files:
 * Generate thumbnails for images
 
 
-projects contained follows:
+Files:
 
 * [Redis utils](./utils/redis.js)
 * [MongoDB utils](./utils/db.js)
